@@ -2,6 +2,17 @@
 *.orig
 # Java Class Files #
 *.class
+#
+*.xsd
+*.lastupdate
+build.xml
+buildcall*.xml
+.pmd
+*.number
+*classes.xml
+*.xmi
+#
+
 # Package Files #
 *.jar
 *.war
